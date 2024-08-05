@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "dependencies": {
+    "todomvc-app-css": "^2.0.0",
+    "todomvc-common": "^1.0.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "npx http-server ."
+  }
+}
