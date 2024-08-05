@@ -1,5 +1,13 @@
 # TODO
 - just get it working
+  - fix event handlers - is completing or deleting the wrong item
+  - add edit (.editing class, .edit input. optionally remove the .edit input when not needed)
+  - add toggle all
+  - show toggle all state
+  - add filter
+  - add history
+  - fix sorting
+  - review the spec
 - cross browser tests
 - log the hours
 - write about the philosophy / approach
@@ -10,7 +18,7 @@
 # Time Log
 2024-08-05
 - 15 minutes: repo, notes
-- 5:00-? begin
+- 1.25 hours: add, save to storage, load from storage, toggle, delete, fix bugs
 
 # Notes
 - all the usual little stupid annoyances of typos, double checking method/prop usage, etc
